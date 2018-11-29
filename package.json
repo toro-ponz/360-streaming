@@ -1,0 +1,7 @@
+{
+  "name": "360-streaming",
+  "scripts": {},
+  "dependencies": {
+    "videojs-vr": "^1.5.0"
+  }
+}
